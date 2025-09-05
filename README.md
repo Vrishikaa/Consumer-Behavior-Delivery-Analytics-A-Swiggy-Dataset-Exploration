@@ -2,6 +2,7 @@
 
 This repository contains an **exploratory data analysis (EDA)** project on a Swiggy dataset.  
 The goal is to clean, analyze, and visualize data to extract meaningful business insights and suggest strategies to improve sales in upcoming areas.  
+![Uploading Screenshot 2025-09-05 203132.png…]()
 
 ---
 
